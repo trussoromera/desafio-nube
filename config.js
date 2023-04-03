@@ -26,3 +26,5 @@ app.get('/get-out', (req, res, next) => {
 
 // LISTEN
 app.listen(PORT, () => console.log(`http://localhost:${PORT}`));
+
+console.log('hola como va')
